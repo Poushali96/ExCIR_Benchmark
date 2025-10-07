@@ -94,7 +94,7 @@ If you use **ExCIR** or this benchmark suite, please cite:
 
 ```bibtex
 @inproceedings{sengupta2025excIR,
-  author    = {Poushali Sengupta and co-authors},
+  author    = {Annonymous},
   title     = {ExCIR: Bounded Correlation-Aware Global Feature Attribution with Lightweight Transfer},
   booktitle = {Proc. IEEE [Conference Name]},
   year      = {2025}
