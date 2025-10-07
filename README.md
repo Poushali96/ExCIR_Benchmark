@@ -93,7 +93,7 @@ These correspond to **Figures 3–8** of the paper.
 If you use **ExCIR** or this benchmark suite, please cite:
 
 ```bibtex
-@inproceedings{sengupta2025excIR,
+@inproceedings{25excIR,
   author    = {Annonymous},
   title     = {ExCIR: Bounded Correlation-Aware Global Feature Attribution with Lightweight Transfer},
   booktitle = {Proc. IEEE [Conference Name]},
