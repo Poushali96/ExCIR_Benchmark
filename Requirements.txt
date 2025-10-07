@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn>=1.3
+xgboost>=1.7
+scipy
+shap
+matplotlib
+seaborn
+tqdm
+openml
+requests
+jupyter
